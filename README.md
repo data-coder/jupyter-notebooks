@@ -1,6 +1,6 @@
 ## SQL
 
-[temporary tables](./SQL/SQL temporary tables.ipynb)
+[temporary tables](./SQL/SQL_temporary_tables.ipynb)
 
 ## How to Clean and Tidy Data
 
