@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200mm"
-   height="150mm"
-   viewBox="0 0 200 150"
+   width="75.630203mm"
+   height="121.28941mm"
+   viewBox="0 0 75.630203 121.28941"
    version="1.1"
    id="svg821"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -66,9 +66,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="431.95137"
-     inkscape:cy="132.64296"
+     inkscape:zoom="0.5"
+     inkscape:cx="813.10067"
+     inkscape:cy="-10.639813"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,7 +77,11 @@
      inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata818">
     <rdf:RDF>
@@ -86,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,7 +98,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-147)">
+     transform="translate(-62.184898,-173.43623)">
     <image
        y="181.2979"
        x="108.97552"
@@ -165,14 +169,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="183.88542"
-       y="295.14792"
+       x="123.7044"
+       y="294.05746"
        id="text1535"><tspan
          sodipodi:role="line"
          id="tspan1533"
-         x="183.88542"
-         y="295.14792"
-         style="font-size:4.58611107px;fill:#6699ff;stroke-width:0.26458332">datacomy.com</tspan></text>
+         x="123.7044"
+         y="294.05746"
+         style="font-size:3.17499995px;fill:#6699ff;stroke-width:0.26458332">datacomy.com</tspan></text>
     <ellipse
        style="opacity:1;fill:#cc0000;fill-opacity:0.19607843;stroke:none;stroke-width:0.99602032;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21714286;paint-order:stroke fill markers"
        id="path1658"
