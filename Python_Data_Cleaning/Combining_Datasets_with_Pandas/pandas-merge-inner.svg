@@ -10,16 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200mm"
-   height="150mm"
-   viewBox="0 0 200 150"
+   width="75.630203mm"
+   height="104.69465mm"
+   viewBox="0 0 75.630203 104.69465"
    version="1.1"
    id="svg821"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="pandas-merge-inner.svg"
    inkscape:export-filename="/home/fede/Documents/Learn/Projects/jupyter-notebooks/Python_Data_Cleaning/Combining_Datasets_with_Pandas/pandas-merge-inner-2.png"
-   inkscape:export-xdpi="38.099998"
-   inkscape:export-ydpi="38.099998">
+   inkscape:export-xdpi="201.60915"
+   inkscape:export-ydpi="201.60915">
   <defs
      id="defs815" />
   <sodipodi:namedview
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="327.72337"
-     inkscape:cy="308.40793"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="15.111736"
+     inkscape:cy="130.67178"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,11 @@
      inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata818">
     <rdf:RDF>
@@ -49,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,7 +61,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-147)">
+     transform="translate(-62.184898,-173.43623)">
     <image
        y="181.2979"
        x="108.97552"
@@ -145,14 +149,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="183.88542"
-       y="295.14792"
+       x="122.2375"
+       y="277.68542"
        id="text1535"><tspan
          sodipodi:role="line"
          id="tspan1533"
-         x="183.88542"
-         y="295.14792"
-         style="font-size:4.58611107px;fill:#6699ff;stroke-width:0.26458332">datacomy.com</tspan></text>
+         x="122.2375"
+         y="277.68542"
+         style="font-size:2.11666656px;fill:#6699ff;stroke-width:0.26458332">datacomy.com</tspan></text>
     <ellipse
        ry="3.3299892"
        rx="3.0059083"
