@@ -1,6 +1,9 @@
 ## SQL
 
-How to use temporary tables in PostgreSQL
+
+### Temporary Tables
+
+How to use temporary tables in PostgreSQL, percentile function, joins and visualization with Python, using data from Fortune500 companies.
 
 [temporary tables](./SQL/SQL_temporary_tables.ipynb)
 
@@ -26,3 +29,7 @@ Combining Datasets with Pandas: differences between:
 * Inner Join
 
 [Pandas Merge](./Python_Data_Cleaning/Combining_Datasets_with_Pandas.ipynb)
+
+### Data Analysis: Percentiles and Visualization
+
+Usage of the quantile function to analyze Fortune 500 data. Data visualizations using **seaborn**.
