@@ -34,7 +34,7 @@ Combining Datasets with Pandas: differences between:
 
 Usage of the quantile function to analyze Fortune 500 data. Data visualizations using **seaborn**.
 
-[Percentiles](./Python_Data_Cleaning/percentile.ipynb)
+[Percentiles](./Python_Data_Cleaning/Quantile.ipynb)
 
 ## Linear Algebra
 
